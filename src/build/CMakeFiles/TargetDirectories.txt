@@ -1,0 +1,3 @@
+/home/bianjiang/Downloads/LSDVProiellipsecluster/src/build/CMakeFiles/rebuild_cache.dir
+/home/bianjiang/Downloads/LSDVProiellipsecluster/src/build/CMakeFiles/edit_cache.dir
+/home/bianjiang/Downloads/LSDVProiellipsecluster/src/build/CMakeFiles/main.dir
